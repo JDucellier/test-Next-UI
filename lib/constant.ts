@@ -1,0 +1,57 @@
+export const COLORS = ["primary", "secondary",  "success" , "warning", "error"];
+
+export const GRADIANTS = [ `45deg,
+  hsl(240deg 100% 20%) 0%,
+  hsl(289deg 100% 21%) 11%,
+  hsl(315deg 100% 27%) 22%,
+  hsl(329deg 100% 36%) 33%,
+  hsl(337deg 100% 43%) 44%,
+  hsl(357deg 91% 59%) 56%,
+  hsl(17deg 100% 59%) 67%,
+  hsl(34deg 100% 53%) 78%,
+  hsl(45deg 100% 50%) 89%,
+  hsl(55deg 100% 50%) 100%
+`, 
+`
+  45deg,
+  hsl(240deg 55% 44%) 0%,
+  hsl(270deg 63% 41%) 11%,
+  hsl(292deg 90% 34%) 22%,
+  hsl(307deg 100% 34%) 33%,
+  hsl(319deg 100% 39%) 44%,
+  hsl(328deg 100% 43%) 56%,
+  hsl(335deg 100% 46%) 67%,
+  hsl(342deg 100% 48%) 78%,
+  hsl(348deg 100% 50%) 89%,
+  hsl(355deg 100% 50%) 100%
+`,
+`
+  45deg,
+  hsl(146deg 100% 44%) 0%,
+  hsl(89deg 73% 47%) 11%,
+  hsl(65deg 100% 36%) 22%,
+  hsl(47deg 100% 40%) 33%,
+  hsl(34deg 100% 45%) 44%,
+  hsl(17deg 91% 55%) 56%,
+  hsl(355deg 94% 60%) 67%,
+  hsl(335deg 88% 50%) 78%,
+  hsl(321deg 93% 44%) 89%,
+  hsl(302deg 61% 43%) 100%
+`,
+`
+  45deg,
+  hsl(261deg 100% 44%) 0%,
+  hsl(276deg 100% 42%) 5%,
+  hsl(289deg 100% 39%) 11%,
+  hsl(301deg 100% 36%) 17%,
+  hsl(312deg 100% 40%) 24%,
+  hsl(320deg 100% 43%) 31%,
+  hsl(327deg 100% 45%) 38%,
+  hsl(332deg 100% 47%) 46%,
+  hsl(337deg 100% 48%) 55%,
+  hsl(341deg 100% 49%) 64%,
+  hsl(345deg 100% 49%) 73%,
+  hsl(349deg 100% 49%) 83%,
+  hsl(353deg 100% 48%) 92%,
+  hsl(0deg 97% 48%) 100%
+`];
